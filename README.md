@@ -44,10 +44,4 @@ pcap files generated using wireshark, contain packet data
 .model - this file contains ipv6 addresses of all domain names
 
 
-output.py file- shows device name, IPS, Domain Names and Linux Epoch of Sending and Receiving packet. 
-
-
-
-Next meeting-
-
-devices vs number of domain names graph over several months (no. of domain names increased/decresed)
+output.py file- shows device name, IPS, Domain Names and Linux Epoch of Sending and Receiving packet.
