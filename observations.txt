@@ -1,0 +1,24 @@
+For ikettle- 13 extra IPs
+June Extra IPs ['192.203.230.10', '192.33.4.12', '192.36.148.17', '199.7.91.13', '202.12.27.33', '199.7.83.42', '192.5.5.241', '192.58.128.30', '199.9.14.201', '198.97.190.53', '192.112.36.4', '198.41.0.4', '193.0.14.129']
+
+After careful observation of these domain names we can observe a few things-
+1. There are mainly 2 types of domain names-
+  a. imp-xx-electricimp.com
+  b. prdxxx.boxen.electricimp.com
+  Exception in May2021- upgrades.electricimp.com (may be because Software is getting updated)
+
+2. imp-xx.... domain name changes only after May (when there was upgrades domain name)
+
+3. One of prdxxx format domain name is present for consecutive 2 months, so 1 such domain name is common in 2 months
+
+
+TTL Study-
+TTL    0
+count  4.350000e+02
+mean   1.626108e+09
+std    3.977177e+06
+min    1.621555e+09
+25%    1.623621e+09
+50%    1.623741e+09
+75%    1.628329e+09
+max    1.635358e+09
