@@ -62,3 +62,43 @@ TLS Destination repetition count for months-
 52.36.151.253     2
 34.218.148.111    1
 35.85.16.171      1
+
+
+
+
+
+
+TPLINK BULB observations
+
+oct {'devs.tplinkcloud.com': 8472}
+nov {'devs.tplinkcloud.com': 152}
+dec {'devs.tplinkcloud.com': 9336}
+jan {'devs.tplinkcloud.com': 14728, 'pool.ntp.org': 68, 'time-a.nist.gov': 17, 'deventry.tplinkcloud.com': 1220, 'use1-api.tplinkra.com': 18}
+feb {'devs.tplinkcloud.com': 57048, 'deventry.tplinkcloud.com': 2119, 'use1-api.tplinkra.com': 1159, 'pool.ntp.org': 956, 'time-a.nist.gov': 234}
+mar {'devs.tplinkcloud.com': 25248, 'deventry.tplinkcloud.com': 930, 'pool.ntp.org': 36, 'time-a.nist.gov': 9, 'use1-api.tplinkra.com': 61}
+apr {'pool.ntp.org': 96, 'time-a.nist.gov': 24, 'deventry.tplinkcloud.com': 88, 'devs.tplinkcloud.com': 976, 'use1-api.tplinkra.com': 282}
+may {'use1-api.tplinkra.com': 30, 'deventry.tplinkcloud.com': 18, 'devs.tplinkcloud.com': 296, 'pool.ntp.org': 12, 'time-a.nist.gov': 3}
+jun {'devs.tplinkcloud.com': 796, 'use1-api.tplinkra.com': 9}
+jul {'devs.tplinkcloud.com': 872, 'use1-api.tplinkra.com': 369}
+aug {'use1-api.tplinkra.com': 1630, 'devs.tplinkcloud.com': 464}
+sep {'devs.tplinkcloud.com': 1232, 'pool.ntp.org': 8, 'time-a.nist.gov': 2, 'deventry.tplinkcloud.com': 10, 'use1-api.tplinkra.com': 150}
+oct {'devs.tplinkcloud.com': 8472}
+
+
+
+
+
+Google Mini
+
+oct {'ipv4.connman.net': 7, 'gld.push.samsungosp.com': 383, 'graph-custom.whisk.com': 140, 'graph.whisk.com': 1099, 'pool.ntp.org': 128, 'eu-odc.tizenstore.com': 9, 'ap-odc.tizenstore.com': 6214, 'www.samsungotn.net': 120, 'api.sesupdate.com': 70, 'api.weather.com': 1520, 'configprd.samsungcloudsolution.net': 34, 'info.cspserver.net': 228, 'fhstatic.cspserver.net': 40, 'samsung-image-cdn.whisk.com': 102, 'us-fhapi.cspserver.net': 1083, 'cdn.britannica.com': 284, 'oauth.ring.com': 3960, 'us-auth2.samsungosp.com': 4149, 'log.samsunghrm.com': 462, 'ocfconnect-shard-na03-useast2.samsungiotcloud.com': 1968, 'bixby-client.aibixby.com': 196, 'api.samsungcloud.com': 631, 'fhapi.cspserver.net': 20, 'esdk-ffl.spotify.com': 8, 'cas.samsungcloud.com': 736, 'uimetadata.samsungiotcloud.com': 607, 'provisioning-use2.mgmt.aibixby.com': 736, 'ash-use2.mgmt.aibixby.com': 408, 'cas.api.samsungcloud.com': 68, 'api.shopliftr.com': 180, 'lcprd1.samsungcloudsolution.net': 357, 'use.fontawesome.com': 4, 'dpm.demdex.net': 17, 'fast.samsungelectronicsamericainc.demdex.net': 4, 'sssamsungcarefhprd.112.2o7.net': 6, 'idsync.rlcdn.com': 3, 'cm.g.doubleclick.net': 3, 'googleads.g.doubleclick.net': 3, 'analytics.twitter.com': 9, 'match.adsrvr.org': 17, 'cm.adgrx.com': 3, 'ag.innovid.com': 14, 'ads.undertone.com': 8, 'evt.undertone.com': 11, 'www.youtube.com': 27, 's.ytimg.com': 3, 'm.youtube.com': 3, 'fonts.gstatic.com': 4, 'accounts.google.com': 3, 'i.ytimg.com': 8, 'static.doubleclick.net': 3, 'img.tizenstore.com': 18, 'images.ads.shopliftr.com': 135, 'www.googleapis.com': 29}
+nov {'ap-odc.tizenstore.com': 10282, 'oauth.ring.com': 6480, 'uimetadata.samsungiotcloud.com': 907, 'api.weather.com': 2262, 'us-fhapi.cspserver.net': 1695, 'cdn.britannica.com': 270, 'us-auth2.samsungosp.com': 6220, 'ocfconnect-shard-na03-useast2.samsungiotcloud.com': 2688, 'graph-custom.whisk.com': 210, 'graph.whisk.com': 1890, 'api.shopliftr.com': 270, 'samsung-image-cdn.whisk.com': 100, 'images.ads.shopliftr.com': 261, 'cas.samsungcloud.com': 1098, 'www.samsungotn.net': 180, 'fhstatic.cspserver.net': 60, 'log.samsunghrm.com': 636, 'provisioning-use2.mgmt.aibixby.com': 1169, 'ash-use2.mgmt.aibixby.com': 640, 'gld.push.samsungosp.com': 1503, 'bixby-client.aibixby.com': 286, 'api.samsungcloud.com': 371, 'lcprd1.samsungcloudsolution.net': 51, 'info.cspserver.net': 384, 'pool.ntp.org': 256, 'ipv4.connman.net': 12, 'fhapi.cspserver.net': 30, 'esdk-ffl.spotify.com': 12, 'cas.api.samsungcloud.com': 80, 'api.sesupdate.com': 62, 'www.googleapis.com': 31}
+dec {'time.google.com': 11600, 'tools.google.com': 352, 'android.clients.google.com': 293, 'connectivitycheck.gstatic.com': 781, 'www.gstatic.com': 90, 'play.googleapis.com': 241, 'www.googleapis.com': 2808, 'device-provisioning.googleapis.com': 30, 'clients3.google.com': 1093, 'clients1.google.com': 30, 'clients4.google.com': 120, 'home-devices.googleapis.com': 60, 'gcm-http.googleapis.com': 12, 'google.com': 194, 'mtalk.google.com': 142, 'www.google.com': 72}
+
+
+
+
+Washer
+
+oct {'ipv4.connman.net': 7, 'gld.push.samsungosp.com': 383, 'graph-custom.whisk.com': 140, 'graph.whisk.com': 1099, 'pool.ntp.org': 128, 'eu-odc.tizenstore.com': 9, 'ap-odc.tizenstore.com': 6214, 'www.samsungotn.net': 120, 'api.sesupdate.com': 70, 'api.weather.com': 1520, 'configprd.samsungcloudsolution.net': 34, 'info.cspserver.net': 228, 'fhstatic.cspserver.net': 40, 'samsung-image-cdn.whisk.com': 102, 'us-fhapi.cspserver.net': 1083, 'cdn.britannica.com': 284, 'oauth.ring.com': 3960, 'us-auth2.samsungosp.com': 4149, 'log.samsunghrm.com': 462, 'ocfconnect-shard-na03-useast2.samsungiotcloud.com': 1968, 'bixby-client.aibixby.com': 196, 'api.samsungcloud.com': 631, 'fhapi.cspserver.net': 20, 'esdk-ffl.spotify.com': 8, 'cas.samsungcloud.com': 736, 'uimetadata.samsungiotcloud.com': 607, 'provisioning-use2.mgmt.aibixby.com': 736, 'ash-use2.mgmt.aibixby.com': 408, 'cas.api.samsungcloud.com': 68, 'api.shopliftr.com': 180, 'lcprd1.samsungcloudsolution.net': 357, 'use.fontawesome.com': 4, 'dpm.demdex.net': 17, 'fast.samsungelectronicsamericainc.demdex.net': 4, 'sssamsungcarefhprd.112.2o7.net': 6, 'idsync.rlcdn.com': 3, 'cm.g.doubleclick.net': 3, 'googleads.g.doubleclick.net': 3, 'analytics.twitter.com': 9, 'match.adsrvr.org': 17, 'cm.adgrx.com': 3, 'ag.innovid.com': 14, 'ads.undertone.com': 8, 'evt.undertone.com': 11, 'www.youtube.com': 27, 's.ytimg.com': 3, 'm.youtube.com': 3, 'fonts.gstatic.com': 4, 'accounts.google.com': 3, 'i.ytimg.com': 8, 'static.doubleclick.net': 3, 'img.tizenstore.com': 18, 'images.ads.shopliftr.com': 135, 'www.googleapis.com': 29}
+nov {'time.google.com': 6136, 'connectivitycheck.gstatic.com': 440, 'clients3.google.com': 583, 'clients1.google.com': 16, 'clients4.google.com': 64, 'android.clients.google.com': 149, 'tools.google.com': 192, 'google.com': 102, 'www.gstatic.com': 53, 'play.googleapis.com': 129, 'www.googleapis.com': 1448, 'device-provisioning.googleapis.com': 16, 'home-devices.googleapis.com': 32, 'gcm-http.googleapis.com': 6, 'mtalk.google.com': 97, 'www.google.com': 27}
+dec {'api.tizenservice.com': 421, 'api.weather.com': 3888, 'graph-custom.whisk.com': 434, 'graph.whisk.com': 1168, 'samsung-image-cdn.whisk.com': 223, 'us-fhapi.cspserver.net': 1616, 'gld.push.samsungosp.com': 612, 'cas.samsungcloud.com': 1147, 'provisioning-use2.mgmt.aibixby.com': 1477, 'ash-use2.mgmt.aibixby.com': 549, 'pool.ntp.org': 172, 'us-auth2.samsungosp.com': 5766, 'bixby-client.aibixby.com': 286, 'cdn-public-ustore-prod-use1.tizenservice.com': 635, 'cdn.britannica.com': 225, 'api.shopliftr.com': 162, 'log.samsunghrm.com': 551, 'api.ring.com': 238, 'www.samsungotn.net': 269, 'fhstatic.cspserver.net': 50, 'uimetadata.samsungiotcloud.com': 801, 'ocfconnect-shard-na03-useast2.samsungiotcloud.com': 2576, 'ap-odc.tizenstore.com': 5420, 'oauth.ring.com': 4603, 'connect-v2.samsungiotcloud.com': 16, 'images.ads.shopliftr.com': 162, 'api.samsungcloud.com': 552, 'api.sesupdate.com': 145, 'info.cspserver.net': 300, 'lcprd1.samsungcloudsolution.net': 119, 'ipv4.connman.net': 8, 'configprd.samsungcloudsolution.net': 34, 'esdk-ffl.spotify.com': 10, 'maps.googleapis.com': 3, 'www.googleapis.com': 29, 'connect.samsungiotcloud.com': 16, 'fhapi.cspserver.net': 25, 'cas.api.samsungcloud.com': 81, 'otn.samsungcloudcdn.com': 14, 'api.smartthings.com': 35, 'gprod-use1-pdss-sync.aibixby.com': 12, 'cdn-private-ustore-prod-use1.tizenservice.com': 18, 'cdn-api.sesupdate.com': 51}
